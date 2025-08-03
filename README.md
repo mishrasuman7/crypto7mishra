@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Suman Mishra
-- 👀 I’m interested in Ethical Hacking, Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on open-source security tools.
 - 📫 How to reach me: msuman7757@gmail.com
 - 😄 Pronouns: He/Him
 <!---
